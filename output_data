@@ -1,0 +1,20 @@
+[
+    {
+        "id": "69036407-c4f4-4b4c-bf05-576f0d52196f",
+        "title": "Call of Duty",
+        "platform": "XBOX360",
+        "releaseYear": "2011"
+    },
+    {
+        "id": "85612132-a68a-4dd6-977f-d1f13e6969d3",
+        "title": "Mario",
+        "platform": "NintendoSwitch",
+        "releaseYear": "2020"
+    },
+    {
+        "id": "3f17d27d-5a6d-40ee-841b-2c53e7624148",
+        "title": "Ratchet and Clank",
+        "platform": "Playstation3",
+        "releaseYear": "2014"
+    }
+]
